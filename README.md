@@ -1,2 +1,3 @@
 # pg1926odevleridir   
-#ödev sahibi yunus saltadır
+#ödev sahibi yunus salta ve furkan Yavuzdur. 
+
