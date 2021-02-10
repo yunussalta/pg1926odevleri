@@ -1,3 +1,4 @@
 # pg1926odevleridir   
-#ödev sahibi yunus salta ve furkan Yavuzdur. 
+#proje sahibi yunus salta ve furkan Yavuzdur.
+#ödev sahibi yunus salta'dır
 
